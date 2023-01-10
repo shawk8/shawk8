@@ -1,4 +1,12 @@
-### Hi there 👋
+### - Hi, I'm David Pham
+### - I'm interested in programming, racket sports, and video games
+### - I'm currently learning how to take care of a dog
+### - I'm originally from Honolulu
+### - I'm a sophomore in electrical engineering
+### - I chose my major because the world always needs engineers!
+### - A fun fact about me is: I've lived in San Francisco, Phoenix, and Hilo
+### - What do I want to learn from EE 205? I want to learn more about programming (EE 160 was really fun!) and see if I have enough aptitude to continue further
+### - A book or movie I'd recommend is: Before Sunset
 
 <!--
 **shawk8/shawk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
